@@ -1,3 +1,3 @@
-# Curso-Digital: Git/Versionamento
-# Salvando modificações no Git
-## Salvando alterações no Git
+# Curso-Digital: Git
+# Salvando alterações do Git
+* comando git push
